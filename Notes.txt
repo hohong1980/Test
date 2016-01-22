@@ -1,0 +1,21 @@
+\\aswvnwks060\Software\SW_DVD9_SQL_Svr_Enterprise_Edtn_2008_R2_English_MLF_X16-29540
+
+Env setup:
+- Install VS2013
+- Install Installer Project	https://visualstudiogallery.msdn.microsoft.com/9abe329c-9bba-44a1-be59-0fbf6151054d
+
+Foundation: services method used to update User
+- IUserService.Update
+- IUserService.SetRolesForUser
+- IUserService.SaveUserSecurityProfile
+- IUserService.UpdatePermissionForUser
+
+
+\\Sydapp002\fas\Packages\FAS_1.1.6.58719.zip
+
+
+https://www.pluralsight.com/courses/domain-driven-design-fundamentals
+se-vu/cjiow14@#cD
+
+
+https://aswigsolutions.atlassian.net/wiki/display/FOUN/Sync+Tool
